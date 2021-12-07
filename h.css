@@ -1,0 +1,39 @@
+body{
+    background-color:seashell;
+    margin-top:0px; 
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-image: url('/home/nishan/Pictures/n.gif');
+    background-size: cover;
+    backface-visibility: visible;
+
+}
+
+div{
+    background-color: black;
+    border-radius: 5px;
+    
+}
+
+
+ul{list-style-type: none;
+margin: 0;
+padding:0;
+width:10%;
+height: 100%;
+
+overflow:visible;
+background-color:rgb(75, 70, 70);}
+
+li a {
+display: block;
+color:wheat;
+padding: 100px 16px;
+text-decoration: none;
+}
+
+li a:hover{
+    background-color: darkblue;
+color: darkcyan;
+}
